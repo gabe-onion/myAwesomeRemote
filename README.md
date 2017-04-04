@@ -1,0 +1,2 @@
+# myAwesomeRemote
+Sample repository
